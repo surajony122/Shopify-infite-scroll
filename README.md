@@ -1,1 +1,1 @@
-# scrollify
+Shhopify infinity product on product page
