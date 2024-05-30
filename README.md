@@ -1,1 +1,1 @@
-Shhopify infinity product on product page
+Shopify infinity product on collection page
